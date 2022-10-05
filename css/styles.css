@@ -1,0 +1,11 @@
+body {
+    background-color: bisque;
+}
+
+p1,p2 {
+    font-style: italic;
+    color: darkolivegreen;
+}
+div {
+        border: black 2px solid; margin: 5px"
+}
